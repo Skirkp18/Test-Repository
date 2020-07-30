@@ -1,2 +1,3 @@
 This is just a test file to see if i can push to git
-this a second test to see 
+this a second test to see if it worked
+This is a third test because I finished the activity already and was eating some pizza.
